@@ -1,0 +1,14 @@
+{
+  "name": "curso_cypress",
+  "version": "1.0.0",
+  "description": "Estudo sobre o cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olga Mahin",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
